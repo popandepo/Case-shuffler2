@@ -1,0 +1,13 @@
+E:\Programming related\Microsoft Visual Studio\Case shuffler\obj\Debug\netcoreapp3.1\Case shuffler.csprojAssemblyReference.cache
+E:\Programming related\Microsoft Visual Studio\Case shuffler\obj\Debug\netcoreapp3.1\Case shuffler.AssemblyInfoInputs.cache
+E:\Programming related\Microsoft Visual Studio\Case shuffler\obj\Debug\netcoreapp3.1\Case shuffler.AssemblyInfo.cs
+E:\Programming related\Microsoft Visual Studio\Case shuffler\obj\Debug\netcoreapp3.1\Case shuffler.csproj.CoreCompileInputs.cache
+E:\Programming related\Microsoft Visual Studio\Case shuffler\bin\Debug\netcoreapp3.1\Case shuffler.exe
+E:\Programming related\Microsoft Visual Studio\Case shuffler\bin\Debug\netcoreapp3.1\Case shuffler.deps.json
+E:\Programming related\Microsoft Visual Studio\Case shuffler\bin\Debug\netcoreapp3.1\Case shuffler.runtimeconfig.json
+E:\Programming related\Microsoft Visual Studio\Case shuffler\bin\Debug\netcoreapp3.1\Case shuffler.runtimeconfig.dev.json
+E:\Programming related\Microsoft Visual Studio\Case shuffler\bin\Debug\netcoreapp3.1\Case shuffler.dll
+E:\Programming related\Microsoft Visual Studio\Case shuffler\bin\Debug\netcoreapp3.1\Case shuffler.pdb
+E:\Programming related\Microsoft Visual Studio\Case shuffler\obj\Debug\netcoreapp3.1\Case shuffler.dll
+E:\Programming related\Microsoft Visual Studio\Case shuffler\obj\Debug\netcoreapp3.1\Case shuffler.pdb
+E:\Programming related\Microsoft Visual Studio\Case shuffler\obj\Debug\netcoreapp3.1\Case shuffler.genruntimeconfig.cache
